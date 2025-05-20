@@ -3,7 +3,7 @@
 ## Core Advantages
 
 ### ❶ Full Model Aggregation
-- **12+ mainstream models** including GPT-4/4o, Claude 3, Gemini 1.5 Pro, Grok-1, DeepSeek
+- **12+ mainstream models** including GPT-4.5, Claude 3.7, Gemini 2.5 Pro, DeepSeek
 - **Continuous integration** of latest open-source models (Llama3, Mistral) with quarterly updates
 - **Smart model routing** automatically matches optimal model for specific tasks
 
